@@ -1,0 +1,13 @@
+
+{
+  "name": "fighter-online-server",
+  "version": "1.0.0",
+  "description": "Online 1v1 fighting game server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
